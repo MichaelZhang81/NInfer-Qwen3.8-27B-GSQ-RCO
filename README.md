@@ -97,5 +97,5 @@ E:/Apps/convert-venv/Scripts/python.exe -u -m tools.convert \
 
 
 ## 致谢与来源
-- 参考 [Ryan-gsq/ninfer-16g-5070ti-5080-5090-qwen3.8-27b-gsq-rco （其文档与软件包构成本项目的基础，本仓库是其 RTX 40 系适配分支）](https://github.com/encored2333/ninfer-16g-4070tisuper-qwen3.8-27b-gsq-rco)
+- 参考: [encored2333/ninfer-16g-4070tisuper-qwen3.8-27b-gsq-rco](https://github.com/encored2333/ninfer-16g-4070tisuper-qwen3.8-27b-gsq-rco)
 - 本仓库所有改动与实测数据基于 Apache-2.0 开源合规再分发
